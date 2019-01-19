@@ -10,6 +10,6 @@
 	</animations>
     <graphics>
         <object name="g_body" enabled="true" />
-        <object name="g_hammer" enabled="false" />
+        <object name="g_hammer" enabled="true" />
     </graphics>
 </dynamic_object>

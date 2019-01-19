@@ -205,7 +205,7 @@
 		<model           path="units/mods/weapons/wpn_fps_pis_noodle_pts/wpn_fps_pis_noodle_ro_std"/>
 		<object          path="units/mods/weapons/wpn_fps_pis_noodle_pts/wpn_fps_pis_noodle_ro_std"/>
 		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_pts/wpn_fps_pis_noodle_ro_std"/>
-		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_pts/wpn_fps_pis_noodle_ro_std_"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_pts/wpn_fps_pis_noodle_ro_std"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_pts/wpn_fps_pis_noodle_ro_std_thq"/>
 		
 		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_noodle_pts/wpn_fps_pis_noodle_m_8"/>

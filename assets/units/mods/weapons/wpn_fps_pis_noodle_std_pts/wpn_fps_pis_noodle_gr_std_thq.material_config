@@ -4,8 +4,8 @@
         <bump_normal_texture file="units/mods/weapons/wpn_fps_pis_noodle_std_pts/noodle_grip_std_nm"/>
     </material>	
 	<material name="mtr_slide_standard" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:NORMALMAP_UV1" version="2">
-		<diffuse_texture file="units/mods/weapons/wpn_fps_pis_noodle_std_pts/noodle_sight_front_std_df" />
-		<bump_normal_texture file="units/mods/weapons/wpn_fps_pis_noodle_std_pts/noodle_sight_front_std_nm" />
+		<diffuse_texture file="units/mods/weapons/wpn_fps_pis_noodle_std_pts/noodle_std_df" />
+		<bump_normal_texture file="units/mods/weapons/wpn_fps_pis_noodle_std_pts/noodle_std_nm" />
 	</material>
 	<material name="mtr_mag_standard" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:NORMALMAP_UV1" version="2">
         <diffuse_texture file="units/mods/weapons/wpn_fps_pis_noodle_std_pts/noodle_std_df"/>

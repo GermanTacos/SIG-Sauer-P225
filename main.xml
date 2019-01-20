@@ -132,6 +132,9 @@
 	
 	<Sounds directory="assets\sounds">
 		<sound id="noodle_fire" path="noodle_fire.ogg" prefix="regular"/>
+		<sound id="noodle_fire" path="noodle_supp.ogg" prefix="suppressed_a"/>
+		<sound id="noodle_fire" path="noodle_supp.ogg" prefix="suppressed_b"/>
+		<sound id="noodle_fire" path="noodle_supp.ogg" prefix="suppressed_c"/>
 		<sound id="noodle_fire" path="noodle_cof.ogg" prefix="regular_a"/>
 		<sound id="noodle_fire" path="noodle_pr.ogg" prefix="regular_b"/>
 		<sound id="wp_noodle_slide_release" path="wp_noodle_slide_release.ogg" prefix="first"/>
@@ -144,9 +147,6 @@
 		<sound id="wp_noodle_slide_back"  path="wp_noodle_slide_back.ogg" prefix="third"/>
 		<sound id="wp_noodle_slide_release_wick"  path="wp_noodle_slide_release_wick.ogg" prefix="first"/>
 		<sound id="wp_noodle_slide_release_wick"  path="wp_noodle_slide_release_wick.ogg" prefix="third"/>
-		<redirect id="noodle_fire" to="p226r_fire" prefix="suppressed_a"/>
-		<redirect id="noodle_fire" to="p226r_fire" prefix="suppressed_b"/>
-		<redirect id="noodle_fire" to="p226r_fire" prefix="suppressed_c"/>
 	</Sounds>
 	
 	<AddFiles directory="assets">

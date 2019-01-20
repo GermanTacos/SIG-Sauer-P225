@@ -17,6 +17,12 @@
 	"bm_menu_anim"        		: "Animation",
 	"bm_menu_anim_plural"		: "Animations",
 	"bm_menu_sound"       		: "Sound",
-	"bm_menu_sound_plural"		: "Sounds"
+	"bm_menu_sound_plural"		: "Sounds",
+	
+	"bm_wp_wpn_fps_pis_noodle_fr_ste"  : "Stainless Frame",
+	"bm_wp_wpn_fps_pis_noodle_sl_ste"  : "Stainless Slide",
+	"bm_wp_wpn_fps_pis_noodle_gr_ste"  : "Textured Wood Grips",
+	
+	"bm_wp_wpn_fps_pis_noodle_a1_10mm" : "10mm Conversion Kit"
 
 }

@@ -15,5 +15,11 @@ Hooks:PostHook( WeaponFactoryTweakData, "init", "P220ModInit", function(self)
 	self.wpn_fps_pis_noodle.adds.wpn_fps_upg_fl_pis_m3x = {
 			"wpn_fps_pis_beretta_body_rail"
 		}
+		
+	for _, part_id in pairs(self.wpn_fps_pis_noodle.uses_parts) do
+		if self.parts[part_id].type == "barrel_ext" then
+			self.parts.wpn_fps_pis_noodle_sl_zom.override[part_id] = {a_obj="a_ns_zmb"}
+		end
+	end
 	
 end )

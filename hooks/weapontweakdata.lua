@@ -8,21 +8,9 @@ if ( self.noodle ) then
         rotation = Rotation( 0, 0, 0 ) 
 	})
 	self:SetupAttachmentPoint("noodle", {
-		name = "a_rds_sld", 
-        base_a_obj = "a_rds", 
-        position = Vector3( 0, -2.1, -0.7 ), 
-        rotation = Rotation( 0, 0, 0 ) 
-	})
-	self:SetupAttachmentPoint("noodle", {
 		name = "a_ns", 
         base_a_obj = "a_ns", 
         position = Vector3( 0, 1, 0.1 ), 
-        rotation = Rotation( 0, 0, 0 ) 
-	})
-	self:SetupAttachmentPoint("noodle", {
-		name = "a_ns_ext", 
-        base_a_obj = "a_ns", 
-        position = Vector3( 0, 1, 0 ), 
         rotation = Rotation( 0, 0, 0 ) 
 	})
 	self:SetupAttachmentPoint( "noodle", {
@@ -41,6 +29,18 @@ if ( self.noodle ) then
 		name = "a_co", 
         base_a_obj = "a_co", 
         position = Vector3( 0, 1.5, 0.2 ), 
+        rotation = Rotation( 0, 0, 0 ) 
+	})
+	self:SetupAttachmentPoint("noodle", {
+		name = "a_ns_zmb", 
+        base_a_obj = "a_ns", 
+        position = Vector3( 0, -1, 0.1 ), 
+        rotation = Rotation( 0, 0, 0 ) 
+	})
+	self:SetupAttachmentPoint("noodle", {
+		name = "a_sl_fo", 
+        base_a_obj = "a_sl", 
+        position = Vector3( 0, -2.4, 0 ), 
         rotation = Rotation( 0, 0, 0 ) 
 	})
 end

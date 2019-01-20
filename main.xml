@@ -70,6 +70,7 @@
 	<WeaponMod id="wpn_fps_pis_noodle_sl_zom" based_on="wpn_fps_pis_p226_b_standard"        type="slide"          unit="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_sl_zom" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
 		<override>
 			<wpn_fps_pis_noodle_ba_std unit="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_ba_zom"/>
+			<wpn_fps_pis_noodle_fo_std a_obj="a_sl_fo"/>
 		</override>
 		<pcs/>
 	</WeaponMod>

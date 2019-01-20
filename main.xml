@@ -82,6 +82,11 @@
 		<pcs/>
 	</WeaponMod>
 	
+	<WeaponMod id="wpn_fps_pis_noodle_fl_zom" based_on="wpn_fps_upg_fl_pis_x400v" type="gadget" desc_id="bm_wp_upg_fl_crimson_desc" unit="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_fl_zom" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<stats recoil="1" concealment="-1"/>
+		<pcs/>
+	</WeaponMod>
+	
 	<!-- AMMO -->
 	
 	<WeaponMod id="wpn_fps_pis_noodle_a1_10mm" based_on="wpn_fps_upg_a_custom_free" type="akit" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
@@ -154,6 +159,7 @@
 				<value_node value="wpn_fps_pis_noodle_fr_zom"/>
 				<value_node value="wpn_fps_pis_noodle_sl_zom"/>
 				<value_node value="wpn_fps_pis_noodle_ro_zom"/>
+				<value_node value="wpn_fps_pis_noodle_fl_zom"/>
 				
 				<value_node value="wpn_fps_pis_noodle_a1_10mm"/>
 				
@@ -308,6 +314,9 @@
 		
 		<texture         path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/l4d2_p220_df"/>
 		
+		<texture         path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/x400_df"/>
+		<texture         path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/x400_nm"/>
+		
 		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_fr_zom"/>
 		<model           path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_fr_zom"/>
 		<object          path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_fr_zom"/>
@@ -337,6 +346,13 @@
 		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_ro_zom"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_ro_zom"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_ro_zom_thq"/>
+		
+		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_fl_zom"/>
+		<model           path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_fl_zom"/>
+		<object          path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_fl_zom"/>
+		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_fl_zom"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_fl_zom"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_fl_zom_thq"/>
 		
 		<!-- UNIT PTS -->
 		

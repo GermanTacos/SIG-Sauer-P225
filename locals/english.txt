@@ -26,6 +26,7 @@
 	"bm_wp_wpn_fps_pis_noodle_fr_zom"  : "Nickel Plated Frame",
 	"bm_wp_wpn_fps_pis_noodle_sl_zom"  : "Short Slide",
 	"bm_wp_wpn_fps_pis_noodle_ro_zom"  : "Marksman Rear Sight",
+	"bm_wp_wpn_fps_pis_noodle_fl_zom"  : "SureFire X400 Tactical Light",
 	
 	"bm_wp_wpn_fps_pis_noodle_a1_10mm" : "10mm Conversion Kit"
 

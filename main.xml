@@ -114,8 +114,13 @@
 				<value_node value="slide"/>
 			</optional_types>
 			
+			<adds/>
+			
 			<override>
+				<wpn_fps_upg_o_rmr parent="slide"/>
+				<wpn_fps_pis_beretta_body_rail a_obj="a_brtrail"/>
 			</override>
+			
 			
 			<default_blueprint>
 			
@@ -350,9 +355,9 @@
 	</AddFiles>
 	
 	<Hooks directory="hooks">
-	<!--<hook file="weaponfactorytweakdata.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
+	<!--<hook file="playertweakdata.lua" source_file="lib/tweak_data/playertweakdata"/>-->
+		<hook file="weaponfactorytweakdata.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
 		<hook file="weapontweakdata.lua" source_file="lib/tweak_data/weapontweakdata"/>
-		<hook file="playertweakdata.lua" source_file="lib/tweak_data/playertweakdata"/>-->
 	</Hooks>
 	
 </table>

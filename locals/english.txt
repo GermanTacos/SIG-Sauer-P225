@@ -1,8 +1,8 @@
 {
 
-	"menu_l_global_value_noodle" : "This is a Custom Weapon!",
+	"menu_l_global_value_sammy" : "This is a Custom Weapon!",
 
-	"bm_w_noodle" : "SIG-Sauer P220",
+	"bm_w_sammy" : "SIG-Sauer P225",
 
 	"bm_menu_iron_rear"   		: "Rear Iron Sight",
 	"bm_menu_iron_rear_plural"  : "Rear Iron Sights",
@@ -19,32 +19,32 @@
 	"bm_menu_sound"       		: "Sound",
 	"bm_menu_sound_plural"		: "Sounds",
 	
-	"bm_wp_wpn_fps_pis_noodle_fr_ste"  : "Stainless Frame",
-	"bm_wp_wpn_fps_pis_noodle_sl_ste"  : "Stainless Slide",
-	"bm_wp_wpn_fps_pis_noodle_gr_ste"  : "Wood Grips (Textured)",
+	"bm_wp_wpn_fps_pis_sammy_fr_ste"  : "Stainless Frame",
+	"bm_wp_wpn_fps_pis_sammy_sl_ste"  : "Stainless Slide",
+	"bm_wp_wpn_fps_pis_sammy_gr_ste"  : "Wood Grips (Textured)",
 	
-	"bm_wp_wpn_fps_pis_noodle_fr_blu"  : "Blued Frame",
-	"bm_wp_wpn_fps_pis_noodle_sl_blu"  : "Blued Slide",
-	"bm_wp_wpn_fps_pis_noodle_gr_blu"  : "Flat Grips",
+	"bm_wp_wpn_fps_pis_sammy_fr_blu"  : "Blued Frame",
+	"bm_wp_wpn_fps_pis_sammy_sl_blu"  : "Blued Slide",
+	"bm_wp_wpn_fps_pis_sammy_gr_blu"  : "Flat Grips",
 	
-	"bm_wp_wpn_fps_pis_noodle_fr_wor"  : "Worn Frame",
-	"bm_wp_wpn_fps_pis_noodle_sl_wor"  : "Worn Slide",
-	"bm_wp_wpn_fps_pis_noodle_gr_wor"  : "Hogue Grips",
+	"bm_wp_wpn_fps_pis_sammy_fr_wor"  : "Worn Frame",
+	"bm_wp_wpn_fps_pis_sammy_sl_wor"  : "Worn Slide",
+	"bm_wp_wpn_fps_pis_sammy_gr_wor"  : "Hogue Grips",
 	
-	"bm_wp_wpn_fps_pis_noodle_fr_tra"  : "OD Green Frame",
-	"bm_wp_wpn_fps_pis_noodle_sl_tra"  : "Two-Tone Slide",
-	"bm_wp_wpn_fps_pis_noodle_gr_tra"  : "American P220 Grips",
-	"bm_wp_wpn_fps_pis_noodle_tr_tra"  : "Stainless Trigger",
+	"bm_wp_wpn_fps_pis_sammy_fr_tra"  : "OD Green Frame",
+	"bm_wp_wpn_fps_pis_sammy_sl_tra"  : "Two-Tone Slide",
+	"bm_wp_wpn_fps_pis_sammy_gr_tra"  : "American P220 Grips",
+	"bm_wp_wpn_fps_pis_sammy_tr_tra"  : "Stainless Trigger",
 	
-	"bm_wp_wpn_fps_pis_noodle_fr_zom"  : "Nickel Plated Frame",
-	"bm_wp_wpn_fps_pis_noodle_sl_zom"  : "Short Slide",
-	"bm_wp_wpn_fps_pis_noodle_ro_zom"  : "Marksman Rear Sight",
-	"bm_wp_wpn_fps_pis_noodle_fl_zom"  : "SureFire X400 Tactical Light",
-	"bm_wp_wpn_fps_pis_noodle_gr_zom"  : "Wood Grips (Flat)",
+	"bm_wp_wpn_fps_pis_sammy_fr_zom"  : "Nickel Plated Frame",
+	"bm_wp_wpn_fps_pis_sammy_sl_zom"  : "Short Slide",
+	"bm_wp_wpn_fps_pis_sammy_ro_zom"  : "Marksman Rear Sight",
+	"bm_wp_wpn_fps_pis_sammy_fl_zom"  : "SureFire X400 Tactical Light",
+	"bm_wp_wpn_fps_pis_sammy_gr_zom"  : "Wood Grips (Flat)",
 	
-	"bm_wp_wpn_fps_pis_noodle_m_8"     : "8 Round Magazine",
-	"bm_wp_wpn_fps_pis_noodle_m_10"    : "10 Round Magazine",
+	"bm_wp_wpn_fps_pis_sammy_m_8"     : "8 Round Magazine",
+	"bm_wp_wpn_fps_pis_sammy_m_10"    : "10 Round Magazine",
 	
-	"bm_wp_wpn_fps_pis_noodle_a1_10mm" : "10mm Conversion Kit"
+	"bm_wp_wpn_fps_pis_sammy_a1_10mm" : "10mm Conversion Kit"
 
 }

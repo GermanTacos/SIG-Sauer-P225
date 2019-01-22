@@ -42,6 +42,9 @@
 	"bm_wp_wpn_fps_pis_noodle_fl_zom"  : "SureFire X400 Tactical Light",
 	"bm_wp_wpn_fps_pis_noodle_gr_zom"  : "Wood Grips (Flat)",
 	
+	"bm_wp_wpn_fps_pis_noodle_m_8"     : "8 Round Magazine",
+	"bm_wp_wpn_fps_pis_noodle_m_10"    : "10 Round Magazine",
+	
 	"bm_wp_wpn_fps_pis_noodle_a1_10mm" : "10mm Conversion Kit"
 
 }

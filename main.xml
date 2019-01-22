@@ -37,7 +37,7 @@
 		</forbids>
 	</WeaponMod>
 	
-	<WeaponMod id="wpn_fps_pis_noodle_m_8"  based_on="wpn_fps_pis_p226_m_standard"          type="magazine"       unit="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8"  texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_pis_noodle_m_7"  based_on="wpn_fps_pis_p226_m_standard"          type="magazine"       unit="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_7"  texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 
 	<!-- STAINLESS -->
 	
@@ -149,6 +149,18 @@
 		<pcs/>
 	</WeaponMod>
 	
+	<!-- MAG -->
+	
+	<WeaponMod id="wpn_fps_pis_noodle_m_8"  based_on="wpn_fps_pis_p226_m_standard"          type="magazine"       unit="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_8"  texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<stats extra_ammo_new="1" concealment="-1"/>
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_pis_noodle_m_10" based_on="wpn_fps_pis_p226_m_standard"          type="magazine"       unit="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_10" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<stats extra_ammo_new="3" recoil="-2" concealment="-3"/>
+		<pcs/>
+	</WeaponMod>
+	
 	<!-- CALIBER -->
 	
 	<WeaponMod id="wpn_fps_pis_noodle_a1_10mm" based_on="wpn_fps_upg_a_custom_free" type="akit" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
@@ -158,10 +170,10 @@
     </WeaponMod>
 	
 	<Weapon unlock_level="0">
-		<weapon id="noodle" based_on="p226" CLIP_AMMO_MAX="8" NR_CLIPS_MAX="10" tactical_reload="1" texture_bundle_folder="mods" global_value="noodle">
-			<stats damage="128" spread="18" spread_moving="18" recoil="15" concealment="23"/>
+		<weapon id="noodle" based_on="p226" CLIP_AMMO_MAX="7" NR_CLIPS_MAX="11" tactical_reload="1" texture_bundle_folder="mods" global_value="noodle">
+			<stats damage="93" spread="18" spread_moving="18" recoil="15" concealment="23"/>
 			<timers reload_not_empty="1.5" reload_empty="2.2"/>
-			<fire_mode_data fire_rate="0.1"/>
+			<fire_mode_data fire_rate="0.2"/>
 			<AMMO_PICKUP>
 				<value_node value="3"/>
 				<value_node value="5"/>
@@ -203,7 +215,7 @@
 				<value_node value="wpn_fps_pis_noodle_sl_std"/>
 				<value_node value="wpn_fps_pis_noodle_ro_std"/>
 				<value_node value="wpn_fps_pis_noodle_fo_std"/>
-				<value_node value="wpn_fps_pis_noodle_m_8"/>
+				<value_node value="wpn_fps_pis_noodle_m_7"/>
 				
 			</default_blueprint>
 			
@@ -216,7 +228,7 @@
 				<value_node value="wpn_fps_pis_noodle_sl_std"/>
 				<value_node value="wpn_fps_pis_noodle_ro_std"/>
 				<value_node value="wpn_fps_pis_noodle_fo_std"/>
-				<value_node value="wpn_fps_pis_noodle_m_8"/>
+				<value_node value="wpn_fps_pis_noodle_m_7"/>
 				
 				<value_node value="wpn_fps_pis_noodle_fr_ste"/>
 				<value_node value="wpn_fps_pis_noodle_sl_ste"/>
@@ -240,6 +252,9 @@
 				<value_node value="wpn_fps_pis_noodle_gr_zom"/>
 				<value_node value="wpn_fps_pis_noodle_ro_zom"/>
 				<value_node value="wpn_fps_pis_noodle_fl_zom"/>
+				
+				<value_node value="wpn_fps_pis_noodle_m_8"/>
+				<value_node value="wpn_fps_pis_noodle_m_10"/>
 				
 				<value_node value="wpn_fps_pis_noodle_a1_10mm"/>
 				
@@ -354,14 +369,14 @@
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ro_std_cc"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ro_std_cc_thq"/>
 		
-		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8"/>
-		<model           path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8"/>
-		<object          path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8"/>
-		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8"/>
-		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8"/>
-		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8_thq"/>
-		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8_cc"/>
-		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8_cc_thq"/>
+		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_7"/>
+		<model           path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_7"/>
+		<object          path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_7"/>
+		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_7"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_7"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_7_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_7_cc"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_7_cc_thq"/>
 		
 		<!-- STAINLESS PTS -->
 		
@@ -543,6 +558,26 @@
 		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_gr_zom"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_gr_zom"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_zom_pts/wpn_fps_pis_noodle_gr_zom_thq"/>
+		
+		<!-- MAG PTS -->
+		
+		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_8"/>
+		<model           path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_8"/>
+		<object          path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_8"/>
+		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_8"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_8"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_8_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_8_cc"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_8_cc_thq"/>
+		
+		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_10"/>
+		<model           path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_10"/>
+		<object          path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_10"/>
+		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_10"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_10"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_10_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_10_cc"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_mag_pts/wpn_fps_pis_noodle_m_10_cc_thq"/>
 		
 		<!-- UNIT PTS -->
 		

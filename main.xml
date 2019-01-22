@@ -315,6 +315,8 @@
 		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_tr_std"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_tr_std"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_tr_std_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_tr_std_cc"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_tr_std_cc_thq"/>
 		
 		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_sl_std"/>
 		<model           path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_sl_std"/>
@@ -322,6 +324,8 @@
 		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_sl_std"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_sl_std"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_sl_std_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_sl_std_cc"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_sl_std_cc_thq"/>
 		
 		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ba_std"/>
 		<model           path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ba_std"/>
@@ -329,6 +333,8 @@
 		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ba_std"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ba_std"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ba_std_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ba_std_cc"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ba_std_cc_thq"/>
 		
 		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_fo_std"/>
 		<model           path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_fo_std"/>
@@ -336,6 +342,8 @@
 		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_fo_std"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_fo_std"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_fo_std_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_fo_std_cc"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_fo_std_cc_thq"/>
 		
 		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ro_std"/>
 		<model           path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ro_std"/>
@@ -343,6 +351,8 @@
 		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ro_std"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ro_std"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ro_std_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ro_std_cc"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_ro_std_cc_thq"/>
 		
 		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8"/>
 		<model           path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8"/>
@@ -350,6 +360,8 @@
 		<unit            path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8_cc"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_noodle_std_pts/wpn_fps_pis_noodle_m_8_cc_thq"/>
 		
 		<!-- STAINLESS PTS -->
 		

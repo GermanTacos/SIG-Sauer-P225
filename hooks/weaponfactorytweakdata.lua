@@ -1,4 +1,4 @@
-Hooks:PostHook( WeaponFactoryTweakData, "init", "P220ModInit", function(self)
+Hooks:PostHook( WeaponFactoryTweakData, "init", "P225ModInit", function(self)
 	
 	self.wpn_fps_pis_sammy.adds.wpn_fps_upg_fl_pis_laser = {
 			"wpn_fps_pis_beretta_body_rail"

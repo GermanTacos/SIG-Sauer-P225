@@ -21,26 +21,7 @@
 	
 	"bm_wp_wpn_fps_pis_sammy_fr_ste"  : "Stainless Frame",
 	"bm_wp_wpn_fps_pis_sammy_sl_ste"  : "Stainless Slide",
-	"bm_wp_wpn_fps_pis_sammy_gr_ste"  : "Wood Grips (Textured)",
-	
-	"bm_wp_wpn_fps_pis_sammy_fr_blu"  : "Blued Frame",
-	"bm_wp_wpn_fps_pis_sammy_sl_blu"  : "Blued Slide",
-	"bm_wp_wpn_fps_pis_sammy_gr_blu"  : "Flat Grips",
-	
-	"bm_wp_wpn_fps_pis_sammy_fr_wor"  : "Worn Frame",
-	"bm_wp_wpn_fps_pis_sammy_sl_wor"  : "Worn Slide",
-	"bm_wp_wpn_fps_pis_sammy_gr_wor"  : "Hogue Grips",
-	
-	"bm_wp_wpn_fps_pis_sammy_fr_tra"  : "OD Green Frame",
-	"bm_wp_wpn_fps_pis_sammy_sl_tra"  : "Two-Tone Slide",
-	"bm_wp_wpn_fps_pis_sammy_gr_tra"  : "American P220 Grips",
-	"bm_wp_wpn_fps_pis_sammy_tr_tra"  : "Stainless Trigger",
-	
-	"bm_wp_wpn_fps_pis_sammy_fr_zom"  : "Nickel Plated Frame",
-	"bm_wp_wpn_fps_pis_sammy_sl_zom"  : "Short Slide",
-	"bm_wp_wpn_fps_pis_sammy_ro_zom"  : "Marksman Rear Sight",
-	"bm_wp_wpn_fps_pis_sammy_fl_zom"  : "SureFire X400 Tactical Light",
-	"bm_wp_wpn_fps_pis_sammy_gr_zom"  : "Wood Grips (Flat)",
+	"bm_wp_wpn_fps_pis_sammy_gr_ste"  : "P6 Wooden Grips",
 	
 	"bm_wp_wpn_fps_pis_sammy_m_8"     : "8 Round Magazine",
 	"bm_wp_wpn_fps_pis_sammy_m_10"    : "10 Round Magazine",

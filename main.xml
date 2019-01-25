@@ -84,7 +84,7 @@
 		<weapon id="sammy" based_on="p226" CLIP_AMMO_MAX="8" NR_CLIPS_MAX="12" tactical_reload="1" texture_bundle_folder="mods" global_value="sammy">
 			<stats damage="65" spread="14" spread_moving="14" recoil="20" concealment="28"/>
 			<timers reload_not_empty="1.5" reload_empty="2.2"/>
-			<fire_mode_data fire_rate="0.2"/>
+			<fire_mode_data fire_rate="0.1"/>
 			<AMMO_PICKUP>
 				<value_node value="3"/>
 				<value_node value="5"/>

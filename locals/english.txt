@@ -23,6 +23,9 @@
 	"bm_wp_wpn_fps_pis_sammy_sl_ste"  : "Stainless Slide",
 	"bm_wp_wpn_fps_pis_sammy_gr_ste"  : "P6 Wooden Grips",
 	
+	"bm_wp_wpn_fps_pis_sammy_fo_gre"  : "Green Tritium Front Sight",
+	"bm_wp_wpn_fps_pis_sammy_ro_gre"  : "Green Tritium Rear Sight",
+	
 	"bm_wp_wpn_fps_pis_sammy_m_8"     : "8 Round Magazine",
 	"bm_wp_wpn_fps_pis_sammy_m_10"    : "10 Round Magazine",
 	

@@ -57,6 +57,22 @@
 		<pcs/>
 	</WeaponMod>
 	
+	<!-- SIGHTS -->
+	
+	<WeaponMod id="wpn_fps_pis_sammy_fo_gre" based_on="wpn_fps_pis_p226_b_standard"        type="iron_front"     unit="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<forbids>
+			<value_node value="wpn_fps_pis_p226_o_standard"/>
+		</forbids>
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_pis_sammy_ro_gre" based_on="wpn_fps_pis_p226_b_standard"        type="iron_rear"      unit="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<forbids>
+			<value_node value="wpn_fps_pis_p226_o_standard"/>
+		</forbids>
+		<pcs/>
+	</WeaponMod>
+	
 	<!-- MAG -->
 	
 	<WeaponMod id="wpn_fps_pis_sammy_m_10" based_on="wpn_fps_pis_p226_m_standard"          type="magazine"       unit="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_10" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
@@ -128,6 +144,9 @@
 				<value_node value="wpn_fps_pis_sammy_fr_ste"/>
 				<value_node value="wpn_fps_pis_sammy_sl_ste"/>
 				<value_node value="wpn_fps_pis_sammy_gr_ste"/>
+				
+				<value_node value="wpn_fps_pis_sammy_fo_gre"/>
+				<value_node value="wpn_fps_pis_sammy_ro_gre"/>
 				
 				<value_node value="wpn_fps_pis_sammy_m_10"/>
 				
@@ -254,6 +273,7 @@
 		<!-- STAINLESS PTS -->
 		
 		<texture         path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/sammy_ste_df"/>
+		<texture         path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/sammy_ste_il"/>
 		<texture         path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/sammy_ste_nm"/>
 		
 		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_fr_ste"/>
@@ -280,6 +300,26 @@
 		<unit            path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_sl_ste"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_sl_ste"/>
 		<material_config path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_sl_ste_thq"/>
+		
+		<!-- SIGHT PTS -->
+		
+		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre"/>
+		<model           path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre"/>
+		<object          path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre"/>
+		<unit            path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre_cc"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre_cc_thq"/>
+		
+		<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre"/>
+		<model           path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre"/>
+		<object          path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre"/>
+		<unit            path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre_thq"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre_cc"/>
+		<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre_cc_thq"/>
 		
 		<!-- MAG PTS -->
 		

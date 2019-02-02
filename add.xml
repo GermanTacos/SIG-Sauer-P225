@@ -1,0 +1,156 @@
+<AddFiles directory="assets">
+
+	<texture         path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/sammy_std_df"/>
+	<texture         path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/sammy_std_cc"/>
+	<texture         path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/sammy_std_nm"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fr_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fr_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fr_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fr_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fr_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fr_std_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fr_std_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fr_std_cc_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_gr_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_gr_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_gr_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_gr_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_gr_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_gr_std_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_gr_std_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_gr_std_cc_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_tr_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_tr_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_tr_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_tr_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_tr_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_tr_std_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_tr_std_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_tr_std_cc_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_sl_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_sl_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_sl_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_sl_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_sl_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_sl_std_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_sl_std_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_sl_std_cc_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ba_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ba_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ba_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ba_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ba_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ba_std_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ba_std_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ba_std_cc_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fo_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fo_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fo_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fo_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fo_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fo_std_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fo_std_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_fo_std_cc_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ro_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ro_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ro_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ro_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ro_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ro_std_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ro_std_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_std_pts/wpn_fps_pis_sammy_ro_std_cc_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_8"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_8"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_8"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_8"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_8"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_8_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_8_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_8_cc_thq"/>
+	
+	<!-- STAINLESS PTS -->
+	
+	<texture         path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/sammy_ste_df"/>
+	<texture         path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/sammy_ste_il"/>
+	<texture         path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/sammy_ste_nm"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_fr_ste"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_fr_ste"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_fr_ste"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_fr_ste"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_fr_ste"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_fr_ste_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_fr_ste_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_fr_ste_cc_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_gr_ste"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_gr_ste"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_gr_ste"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_gr_ste"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_gr_ste"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_gr_ste_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_gr_ste_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_gr_ste_cc_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_sl_ste"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_sl_ste"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_sl_ste"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_sl_ste"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_sl_ste"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_ste_pts/wpn_fps_pis_sammy_sl_ste_thq"/>
+	
+	<!-- SIGHT PTS -->
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_fo_gre_cc_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_col_pts/wpn_fps_pis_sammy_ro_gre_cc_thq"/>
+	
+	<!-- MAG PTS -->
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_10"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_10"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_10"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_10"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_10"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_10_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_10_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_sammy_mag_pts/wpn_fps_pis_sammy_m_10_cc_thq"/>
+	
+	<!-- UNIT PTS -->
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_sammy/wpn_fps_pis_sammy"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_sammy/wpn_fps_pis_sammy"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_sammy/wpn_fps_pis_sammy"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy/wpn_fps_pis_sammy"/>
+	
+	<unit            path="units/mods/weapons/wpn_fps_pis_sammy/wpn_fps_pis_sammy_npc"/>
+	
+	<!-- ICONS -->
+	
+	<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/sammy"/>
+	
+	<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_pis_sammy_a1_10mm"/>
+	
+</AddFiles>

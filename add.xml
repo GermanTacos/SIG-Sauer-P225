@@ -151,7 +151,6 @@
 	
 	<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/sammy"/>
 	
-	<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_pis_sammy_a1_10mm"/>
 	<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_pis_sammy_m_10"/>
 	<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_pis_sammy_fr_ste"/>
 	<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_pis_sammy_sl_ste"/>

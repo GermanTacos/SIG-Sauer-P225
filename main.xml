@@ -112,6 +112,7 @@
 					<stance_mod>
 						<wpn_fps_pis_sammy translation="0 0 -0.9"/>
 					</stance_mod>
+					<adds/> <!-- DIEEEE -->
 				</wpn_fps_upg_o_rmr>
 				<wpn_fps_pis_legacy_fl_mount a_obj="a_brtrail"/>
 			</override>
